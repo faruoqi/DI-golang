@@ -1,0 +1,1 @@
+Simple DI example in Golang
